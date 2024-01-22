@@ -1,0 +1,1 @@
+This is my first projest am trying to create a website that can be use globally or locally for people use, we can actually do better than this by working hard on it.
